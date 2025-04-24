@@ -1,7 +1,14 @@
 ## Hi there 👋
 
 <!--
-**mkh7878/mkh7878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎨 Web & Email Designer | 💻 Creative Developer
+
+Specialising in **website** and **email design**, I create and code immersive, accessible digital experiences — blending my programming skills with a background in visual design.
+
+My work in **creative computing** explores the intersection of **audio** 🔊 and **visual** 👁️ experiences. I'm especially fascinated by how visualising music can reshape how it's perceived and even composed. This began with my **Master’s dissertation**, which you can check out [here](https://www.meaghanhorak.com/pages/syncomp.html).
+
+![Syncomp visual output](https://www.meaghanhorak.com/assets/syncomp/output_selected.jpg)
+
 
 Here are some ideas to get you started:
 
