@@ -9,7 +9,7 @@ Previous titles include **Digital Experience Specialist** at Richline Digital, *
 
 ## Creative Technology:
 
-My work in **creative computing** explores the intersection of **audio** 🔊 and **visual** 👁️ experiences.  I am especially interested in how the ability to visualise music affects the way it is perceived and composed. I began this work during my masters degree at University of the Arts London Creative Computing Institute
+My work in **creative computing** explores the intersection of audio and visual experiences.  I am especially interested in how the ability to visualise music affects the way it is perceived and composed. I began this work during my masters degree at University of the Arts London Creative Computing Institute
 
 ## Projects exploring audiovisual technologies:
 ### [Visual Theremin](https://github.com/mkh7878/VisualTheramin): 
@@ -25,7 +25,7 @@ In an attempt to better understand machine learning, I created from scratch my v
 </p>
 
 ### Synesthetic Composition
-My **Master’s dissertation** involved the development of the [Synesthetic Composition application (SynComp App)](https://www.meaghanhorak.com/pages/syncomp.html), a Python-based tool designed to create a synesthetic experience by linking musical input with dynamic visual output.
+My **Master’s dissertation** involved the development of the [Synesthetic Composition application (SynComp App)](https://www.meaghanhorak.com/pages/syncomp.html), a Python-based tool designed to create a synesthetic experience by linking musical input with dynamic visual output. I plan to continue this work by incorporating reactive visuals into live music performances.
 
 ![Syncomp visual output](https://www.meaghanhorak.com/assets/syncomp/output_selected.jpg)
 <hr/>
@@ -55,8 +55,6 @@ This project was for uni and I am very proud of it because I'm a huge nerd for s
 <p align="left">
   <img src="https://github.com/mkh7878/portfolio/blob/main/assets/images/tech-projects/solar-system.jpg" width="300px" alt="Visual Theremin Screenshot" />
 </p>
-
-
 
 <hr/>
 - 🔭 I’m currently looking for work in web design/development or other creative applications of technology.
