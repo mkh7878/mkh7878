@@ -3,6 +3,8 @@
 
 Specialising in **website** and **email design**, I create and code immersive, accessible digital experiences — blending my programming skills with a background in visual design.
 
+Previous titles include **Digital Experience Specialist** at Richline Digital, **Head of Visuals and Technology** at Off Hand Co and **Email Designer** at Roadrunner Sports. [Portfolio With Design Work](https://meaghanhorak.com)
+
 My work in **creative computing** explores the intersection of **audio** 🔊 and **visual** 👁️ experiences.  I am especially interested in how the ability to visualise music affects the way it is perceived and composed. I began this work during my masters degree at University of the Arts London Creative Computing Institute
 
 ### Projects exploring audiovisual technologies:
@@ -20,14 +22,13 @@ My **Master’s dissertation** involved the development of the [Synesthetic Comp
 
 ![Syncomp visual output](https://www.meaghanhorak.com/assets/syncomp/output_selected.jpg)
 
+
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently looking for work in web design/development or other creative applications of technology.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
