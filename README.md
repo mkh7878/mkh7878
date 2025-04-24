@@ -50,6 +50,13 @@ I collaborated with a group of colleagues on this project. I personally worked o
   <img src="https://github.com/mkh7878/portfolio/blob/main/assets/images/tech-projects/pop-up.jpg" width="300px" alt="Visual Theremin Screenshot" />
 </p>
 
+### [Wearable Robotics "Inside Out"](https://github.com/mkh7878/inside-out-arduino):
+"Inside Out" was a project using Arduino. I created a jacket that had sensors to monitor the wearer's breating, and sound input with the idea that this technology could be used in performances to make the clothing react to the wearer (change colors when heart rate or breathing changes) or change in time with music. I also experimented with nitinol wire to make parts of the clothes move. It was my first time using Arduino and soldering, and I only lit 2 things on fire, so feeling proud of this. I am interested in exploring the concept of wearable robotics in the future. [Link to Video](https://www.youtube.com/watch?v=SYf4gb7Uf-E)
+<p align="left">
+  <img src="https://github.com/mkh7878/portfolio/blob/main/assets/images/tech-projects/inside-out.jpg" width="300px" alt="Visual Theremin Screenshot" />
+</p>
+
+
 ### [Solar System](https://github.com/mkh7878/creativecoding1finalproject):
 This project was for uni and I am very proud of it because I'm a huge nerd for space (not a scientist, just a fan of the concept). I was watching Brian Cox's "The Planets" documentary while we learned Three.js, so I was inspired to make this animation of the solar system (scale is warped to make the experience user friendly - I believe it's all commented in the code). I even used trig for the first time since high school. [You can play with it yourself here](https://mimicproject.com/code/9b7d58aa-caa0-db8c-fd24-b43cc46ca6cf)
 <p align="left">
